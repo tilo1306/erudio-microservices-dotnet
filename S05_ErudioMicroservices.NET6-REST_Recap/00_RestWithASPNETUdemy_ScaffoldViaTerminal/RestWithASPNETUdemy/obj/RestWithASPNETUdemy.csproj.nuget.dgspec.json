@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\doug1\\OneDrive\\Documentos\\gitHubDouglas\\erudio-microservices-dotnet\\S05_ErudioMicroservices.NET6-REST_Recap\\00_RestWithASPNETUdemy_ScaffoldViaTerminal\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj": {}
+    "C:\\github\\erudio-microservices-dotnet\\S05_ErudioMicroservices.NET6-REST_Recap\\00_RestWithASPNETUdemy_ScaffoldViaTerminal\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\doug1\\OneDrive\\Documentos\\gitHubDouglas\\erudio-microservices-dotnet\\S05_ErudioMicroservices.NET6-REST_Recap\\00_RestWithASPNETUdemy_ScaffoldViaTerminal\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj": {
+    "C:\\github\\erudio-microservices-dotnet\\S05_ErudioMicroservices.NET6-REST_Recap\\00_RestWithASPNETUdemy_ScaffoldViaTerminal\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\doug1\\OneDrive\\Documentos\\gitHubDouglas\\erudio-microservices-dotnet\\S05_ErudioMicroservices.NET6-REST_Recap\\00_RestWithASPNETUdemy_ScaffoldViaTerminal\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+        "projectUniqueName": "C:\\github\\erudio-microservices-dotnet\\S05_ErudioMicroservices.NET6-REST_Recap\\00_RestWithASPNETUdemy_ScaffoldViaTerminal\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
         "projectName": "RestWithASPNETUdemy",
-        "projectPath": "C:\\Users\\doug1\\OneDrive\\Documentos\\gitHubDouglas\\erudio-microservices-dotnet\\S05_ErudioMicroservices.NET6-REST_Recap\\00_RestWithASPNETUdemy_ScaffoldViaTerminal\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+        "projectPath": "C:\\github\\erudio-microservices-dotnet\\S05_ErudioMicroservices.NET6-REST_Recap\\00_RestWithASPNETUdemy_ScaffoldViaTerminal\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
         "packagesPath": "C:\\Users\\doug1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\doug1\\OneDrive\\Documentos\\gitHubDouglas\\erudio-microservices-dotnet\\S05_ErudioMicroservices.NET6-REST_Recap\\00_RestWithASPNETUdemy_ScaffoldViaTerminal\\RestWithASPNETUdemy\\obj\\",
+        "outputPath": "C:\\github\\erudio-microservices-dotnet\\S05_ErudioMicroservices.NET6-REST_Recap\\00_RestWithASPNETUdemy_ScaffoldViaTerminal\\RestWithASPNETUdemy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
