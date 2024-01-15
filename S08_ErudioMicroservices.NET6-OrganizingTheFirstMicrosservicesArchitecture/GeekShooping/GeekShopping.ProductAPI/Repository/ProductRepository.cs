@@ -43,7 +43,7 @@ namespace GeekShopping.ProductAPI.Repository
             Product product = _mapper.Map<Product>(vo);
             _context.Products.Update(product);
             await _context.SaveChangesAsync();
-            return _mappert.Map<ProductVO>(product);
+            return _mapper.Map<ProductVO>(product);
         }
 
         public async Task<bool> Delete(long id)
